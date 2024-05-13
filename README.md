@@ -1,8 +1,8 @@
 # Lab-3-Railway-Reservation
 
-NAME : ALIYA SHEEMA 
+NAME :ARULARASI U
 
-REGISTER NUMBER : 212223230011
+REGISTER NUMBER : 212223100002
 
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
